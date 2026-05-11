@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Andrej 👋
 
-<!--
-**AndrejcoT/AndrejcoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer who keeps Jesus first, builds practical projects, and documents the process along the way.
 
-Here are some ideas to get you started:
+Most of my work right now is focused on practical tools, website development, automation, and improving my understanding of how software is built, tested, and deployed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I'm working on
+
+### 🛠️ Sitecheck
+
+A Python CLI pre-deployment checker for websites.
+
+The goal is simple: before deploying a website, run checks that help catch common issues early.
+
+Currently focused on:
+
+- project structure checks
+- Git repository checks
+- `.gitignore` checks
+- WordPress-related checks
+- clean CLI output
+- learning Python through real usage
+
+### 🎯 Darts Bot
+
+A computer vision project for detecting dart positions on a dartboard.
+
+The goal is to understand how image processing, calibration, scoring zones, and detection logic work by building a real prototype step by step.
+
+Currently focused on:
+
+- dartboard calibration
+- board center and radius detection
+- double, triple, single, bull, and bullseye zones
+- scoring logic
+- learning OpenCV and Python through testing
+
+## What I use at work
+
+I'm currently employed as a Web Developer, working mostly with:
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- a little bit of PHP
+
+## What I'm learning outside of work
+
+- Python
+- Git & GitHub
+- Linux
+- DevOps fundamentals
+- Cloud fundamentals
+
+## Why I'm here
+
+I'm not trying to look like I have everything figured out.
+
+I'm using GitHub to build in public, track my progress, improve as a developer, and turn learning into real projects.
+
+One commit at a time.
