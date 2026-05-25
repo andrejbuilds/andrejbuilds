@@ -22,20 +22,6 @@ Currently focused on:
 - clean CLI output
 - learning Python through real usage
 
-### 🎯 Darts Bot
-
-A computer vision project for detecting dart positions on a dartboard.
-
-The goal is to understand how image processing, calibration, scoring zones, and detection logic work by building a real prototype step by step.
-
-Currently focused on:
-
-- dartboard calibration
-- board center and radius detection
-- double, triple, single, bull, and bullseye zones
-- scoring logic
-- learning OpenCV and Python through testing
-
 ## What I use at work
 
 I'm currently employed as a Web Developer, working mostly with:
