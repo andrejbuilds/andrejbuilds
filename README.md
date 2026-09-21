@@ -122,7 +122,14 @@ A browser-based playground for practicing JavaScript and DOM manipulation throug
   </a>
 </p>
 
-<!-- Add your LinkedIn badge here after the profile is ready. -->
+<p>
+  <a href="https://github.com/andrejbuilds">
+    <img src="https://img.shields.io/badge/GitHub-andrejbuilds-181717?style=for-the-badge&logo=github" alt="Andrej's GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrej-tasevski-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrej_Tasevski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrej's LinkedIn profile" />
+  </a>
+</p>
 
 ---
 
