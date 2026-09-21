@@ -118,12 +118,6 @@ A browser-based playground for practicing JavaScript and DOM manipulation throug
 
 <p>
   <a href="https://github.com/andrejbuilds">
-    <img src="https://img.shields.io/badge/GitHub-andrejbuilds-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/andrejbuilds">
     <img src="https://img.shields.io/badge/GitHub-andrejbuilds-181717?style=for-the-badge&logo=github" alt="Andrej's GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/andrej-tasevski-dev/">
